@@ -12,7 +12,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-app.UseHttpsRedirection();
+// app.UseHttpsRedirection();
 app.UseStaticFiles();  // <-- This enables serving static files from wwwroot
 
 app.UseRouting();
