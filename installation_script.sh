@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Simple script to deploy an ASP.NET Core application (ArtGalleryWebsite) on Ubuntu
-# Clones from GitHub, sets up Nginx, .NET Core, and systemd service
+# Clones from GitHub, sets up Nginx, .NET Core
 # Run this on your Ubuntu server (e.g., via SSH) after updating variables
 
 # Exit on any error
@@ -13,7 +13,6 @@ APP_DIR="/var/www/dotnetApp"
 REMOTE_USER="ubuntu"
 REMOTE_HOST="13.221.159.96"
 DOTNET_PORT="5000"
-SSH_KEY_PATH="C:\\Users\\User\\Downloads\\Others\\key-ssh.pem"  # Local machine SSH key path
 GITHUB_REPO="https://github.com/Sadiq-code-nest/Art-Gallery.git"
 TEMP_CLONE_DIR="/tmp/art-gallery-repo"
 
@@ -64,7 +63,7 @@ echo "Nginx configured."
 # Step 5: Create application directory and set permissions
 echo "Creating directory for the app and setting permissions..."
 sudo mkdir -p $APP_DIR
-sudo chmod 777 $APP_DIR  # Full permissions (use 755 for better security in production)
+sudo chmod 755 $APP_DIR  # Full permissions (use 755 for better security in production)
 sudo chown $REMOTE_USER $APP_DIR
 echo "Application directory ready at $APP_DIR."
 
