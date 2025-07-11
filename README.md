@@ -4,7 +4,7 @@
 
 
 
-# Pre-Requisites
+# prerequisites
 1. .NET SDK 8.0
 2. Visual Studio Code or Visual Studio
 3. Git
