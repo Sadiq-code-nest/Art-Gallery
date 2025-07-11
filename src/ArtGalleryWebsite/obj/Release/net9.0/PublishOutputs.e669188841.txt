@@ -1,0 +1,7 @@
+E:\DevOps_Learning\ArtGalleryWebsite\ArtGalleryWebsite\publish\ArtGalleryWebsite.exe
+E:\DevOps_Learning\ArtGalleryWebsite\ArtGalleryWebsite\publish\appsettings.Development.json
+E:\DevOps_Learning\ArtGalleryWebsite\ArtGalleryWebsite\publish\appsettings.json
+E:\DevOps_Learning\ArtGalleryWebsite\ArtGalleryWebsite\publish\ArtGalleryWebsite.dll
+E:\DevOps_Learning\ArtGalleryWebsite\ArtGalleryWebsite\publish\ArtGalleryWebsite.deps.json
+E:\DevOps_Learning\ArtGalleryWebsite\ArtGalleryWebsite\publish\ArtGalleryWebsite.runtimeconfig.json
+E:\DevOps_Learning\ArtGalleryWebsite\ArtGalleryWebsite\publish\ArtGalleryWebsite.pdb

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ArtGalleryWebsite.props" />
+</Project>

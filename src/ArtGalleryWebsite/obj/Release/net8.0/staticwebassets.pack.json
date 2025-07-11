@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\ArtGalleryWebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ArtGalleryWebsite.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\abstract.jpg",
+      "PackagePath": "staticwebassets\\images\\abstract.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\baby.jpg",
+      "PackagePath": "staticwebassets\\images\\baby.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\beach.jpg",
+      "PackagePath": "staticwebassets\\images\\beach.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\birds.jpg",
+      "PackagePath": "staticwebassets\\images\\birds.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\cat.jpg",
+      "PackagePath": "staticwebassets\\images\\cat.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\cat2.jpg",
+      "PackagePath": "staticwebassets\\images\\cat2.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\dance.jpg",
+      "PackagePath": "staticwebassets\\images\\dance.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\dance2.jpg",
+      "PackagePath": "staticwebassets\\images\\dance2.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\game.jpg",
+      "PackagePath": "staticwebassets\\images\\game.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\game2.jpg",
+      "PackagePath": "staticwebassets\\images\\game2.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\hill.jpg",
+      "PackagePath": "staticwebassets\\images\\hill.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\inside-out.jpg",
+      "PackagePath": "staticwebassets\\images\\inside-out.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\moana.jpg",
+      "PackagePath": "staticwebassets\\images\\moana.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\movie.jpg",
+      "PackagePath": "staticwebassets\\images\\movie.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\movie2.jpg",
+      "PackagePath": "staticwebassets\\images\\movie2.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\night.jpg",
+      "PackagePath": "staticwebassets\\images\\night.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\night2.jpg",
+      "PackagePath": "staticwebassets\\images\\night2.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\pizza2.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza2.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\plant.jpg",
+      "PackagePath": "staticwebassets\\images\\plant.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\ramen.jpg",
+      "PackagePath": "staticwebassets\\images\\ramen.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\sunset.jpg",
+      "PackagePath": "staticwebassets\\images\\sunset.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\sunset2.jpg",
+      "PackagePath": "staticwebassets\\images\\sunset2.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\tiger.jpg",
+      "PackagePath": "staticwebassets\\images\\tiger.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\toy.jpg",
+      "PackagePath": "staticwebassets\\images\\toy.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\tree.jpg",
+      "PackagePath": "staticwebassets\\images\\tree.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\wall-e.jpg",
+      "PackagePath": "staticwebassets\\images\\wall-e.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\images\\waterfall.jpg",
+      "PackagePath": "staticwebassets\\images\\waterfall.jpg"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\DevOps_Learning\\ArtGalleryWebsite\\ArtGalleryWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ArtGalleryWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ArtGalleryWebsite.props",
+      "PackagePath": "build\\ArtGalleryWebsite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ArtGalleryWebsite.props",
+      "PackagePath": "buildMultiTargeting\\ArtGalleryWebsite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ArtGalleryWebsite.props",
+      "PackagePath": "buildTransitive\\ArtGalleryWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
