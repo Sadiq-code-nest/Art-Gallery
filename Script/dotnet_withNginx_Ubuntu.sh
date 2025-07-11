@@ -50,27 +50,6 @@ sudo chown ubuntu $APP_DIR
 cd ..
 rm -rf $TEMP_CLONE_DIR
 
-echo "📦 Configuring Nginx..."
-NGINX_CONFIG="/etc/nginx/sites-available/default"
-sudo bash -c "cat > $NGINX_CONFIG <<EOL
-server {
-    listen 80;
-    server_name _;
-    location / {
-        proxy_pass http://localhost:$DOTNET_PORT;
-        proxy_http_version 1.1;
-        proxy_set_header Upgrade \$http_upgrade;
-        proxy_set_header Connection keep-alive;
-        proxy_set_header Host \$host;
-        proxy_cache_bypass \$http_upgrade;
-        proxy_set_header X-Forwarded-For \$proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto \$scheme;
-    }
-}
-EOL"
-sudo nginx -t
-sudo systemctl reload nginx
-
 echo "📦 Creating systemd service..."
 SYSTEMD_SERVICE="/etc/systemd/system/$APP_NAME.service"
 sudo bash -c "cat > $SYSTEMD_SERVICE <<EOL
