@@ -11,7 +11,7 @@ set -e
 APP_NAME="ArtGalleryWebsite"
 APP_DIR="/var/www/dotnetApp"
 REMOTE_USER="ubuntu"
-REMOTE_HOST="54.161.71.139"
+REMOTE_HOST="13.221.159.96"
 DOTNET_PORT="5000"
 SSH_KEY_PATH="C:\\Users\\User\\Downloads\\Others\\key-ssh.pem"  # Local machine SSH key path
 GITHUB_REPO="https://github.com/Sadiq-code-nest/Art-Gallery.git"
