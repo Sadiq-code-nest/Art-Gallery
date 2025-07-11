@@ -1,6 +1,6 @@
 # Project Overview
 Repository: github.com/Sadiq-code-nest/Art-Gallery
-Live Deployment: http://54.161.71.139 
+Live Deployment: http://13.221.159.96/
 
 # Quick Deployment
 development server
