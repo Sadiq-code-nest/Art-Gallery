@@ -4,7 +4,7 @@ ArtGalleryWebsite provides a seamless experience for browsing and managing art c
 Repository: github.com/Sadiq-code-nest/Art-Gallery
 Live Deployment: http://54.161.71.139 (Master branch)
 
-Quick Deployment
+# Quick Deployment
 Deploy ArtGalleryWebsite on an Ubuntu server with automated scripts for both development and production environments. Follow the steps below to get started.
 prerequisites
 
