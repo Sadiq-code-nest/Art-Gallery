@@ -18,11 +18,11 @@ Set up and run ArtGalleryWebsite locally for development or testing.
 
 
 # Resources
-ASP.NET Core: Web framework (learn.microsoft.com/en-us/aspnet/core/)
-Nginx: Reverse proxy server (nginx.org)
-.NET SDK 8.0: Development kit (dotnet.microsoft.com/en-us/download/dotnet/8.0)
-GitHub: Source control (github.com)
-Systemd: Service management (systemd.io)
+- ASP.NET Core: Web framework (learn.microsoft.com/en-us/aspnet/core/)
+- Nginx: Reverse proxy server (nginx.org)
+- .NET SDK 8.0: Development kit (dotnet.microsoft.com/en-us/download/dotnet/8.0)
+- GitHub: Source control (github.com)
+- Systemd: Service management (systemd.io)
 
 
-ArtGalleryWebsite - Bringing art to life with ASP.NET Core! 🎨
+Thank you !
