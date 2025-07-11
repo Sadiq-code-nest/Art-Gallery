@@ -1,13 +1,14 @@
 # Project Overview
-Repository: github.com/Sadiq-code-nest/Art-Gallery
-Live Deployment: http://13.221.159.96/
+- Repository: github.com/Sadiq-code-nest/Art-Gallery
+- Live Deployment: http://13.221.159.96/
 
 # Quick Deployment
-development server
+- development server
 Run these commands on your Ubuntu server to deploy in a development environment:
+``` 
 wget https://raw.githubusercontent.com/Sadiq-code-nest/Art-Gallery/main/deploy_aspnetcore.sh
 chmod +x deploy_aspnetcore.sh
-./deploy_aspnetcore.sh
+./deploy_aspnetcore.sh ```
 
 Local Development
 Set up and run ArtGalleryWebsite locally for development or testing.
