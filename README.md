@@ -3,7 +3,6 @@
 - Live Deployment: http://13.221.159.96/
 
 
-
 # prerequisites
 1. .NET SDK 8.0
 2. Visual Studio Code or Visual Studio
@@ -11,11 +10,11 @@
 
 
 # Resources
-- ASP.NET Core: Web framework (learn.microsoft.com/en-us/aspnet/core/)
-- Nginx: Reverse proxy server (nginx.org)
-- .NET SDK 8.0: Development kit (dotnet.microsoft.com/en-us/download/dotnet/8.0)
-- GitHub: Source control (github.com)
-- Systemd: Service management (systemd.io)
+- ASP.NET Core: Web framework ( http://learn.microsoft.com/en-us/aspnet/core/ )
+- Nginx: Reverse proxy server (http://nginx.org)
+- .NET SDK 8.0: Development kit (http://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+- GitHub: Source control (http://github.com)
+- Systemd: Service management (http://systemd.io)
 
 # Quick Deployment
 - development server
