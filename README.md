@@ -21,7 +21,8 @@
 - development server
 Run these commands on your Ubuntu server to deploy in a development environment:
 
-```bash wget https://raw.githubusercontent.com/Sadiq-code-nest/Art-Gallery/main/deploy_aspnetcore.sh
+```bash 
+wget https://raw.githubusercontent.com/Sadiq-code-nest/Art-Gallery/main/deploy_aspnetcore.sh
 chmod +x deploy_aspnetcore.sh
 ./deploy_aspnetcore.sh
 
